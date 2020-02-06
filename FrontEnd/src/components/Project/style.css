@@ -1,0 +1,20 @@
+.container-project{
+    margin: 300px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.container-project a{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color:  rgb(54, 54, 83);
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+.container-project a:hover{
+    color:  rgb(43, 43, 56);
+    border: 1px solid rgb(43, 43, 56);
+}
